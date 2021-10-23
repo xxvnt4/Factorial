@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#
 
 def factorial(a: int) -> int:
     '''Multiply a given integer by every integer below it.'''
